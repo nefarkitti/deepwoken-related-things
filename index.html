@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deepwoken Index</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <script src="https://kit.fontawesome.com/d250854114.js" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+</head>
+<body>
+    
+    <div class="modalOverlay" id="modal">
+        
+        <section>
+            <div class="title" id="cardTitle">Thing</div>
+            <div class="infoContainer">
+                <div id="cardSlot">
+                    <div class="card">
+                        <img class="base" src="cards/normal_card.png" alt="">
+                        <div class="overlay">
+                            <img class="vignette" src="cards/card_vignette.png" alt="">
+                        </div>
+                        <div class="icon">
+                            <img class="cardicon" src="talent-icons/skeleton.png" alt="">
+                        </div>
+                        <div class="name">
+                            <div>Starkindred</div>
+                        </div>
+                        <div class="class">
+                            <div>Starkindred</div>
+                        </div>
+                        <div class="description">
+                            <div>You vow to kill everyone you see.</div>
+                        </div>
+                        <div class="bonus">
+                            <div class="bonusContainer">
+                                <div>+1 Bonus</div>
+                                <div>+1 Bonus</div>
+                                <div>+1 Bonus</div>
+                                <div>+1 Bonus</div>
+                                <div>+1 Bonus</div>
+                                <div>+1 Bonus</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container" id="cardInfo">
+                    hi
+                </div>
+            </div>
+            <span class="buttonstylized" onclick="closePopup()">Close</span>
+        </section>
+
+    </div>
+    
+    <main>
+
+        <section class="searchSection">
+            <div class="title">Search</div>
+            <div class="topSection">
+                <div class="searchBar">
+                    <input type="text" name="" id="searchbar" placeholder="Search" class="deepwoken">
+                </div>
+            </div>
+            <div class="searchFilters">
+                <div class="slidecontainer">
+                    <input type="range" min="5" max="10" value="5" class="slider" id="cardsize">
+                </div>
+                <span id="cardsizeIndicator" class="misc">card size: 0.5</span>
+    
+                <hr>
+    
+                <span>
+                    card type:
+                    <select id="filter" name="filter">
+                        <option value="all">All</option>
+                      
+                        <option value="oath">Oath</option>
+                        <option value="advanced">Advanced</option>
+                        <option value="rare">Rare</option>
+                        <option value="normal">Common</option>
+                    </select>
+                </span>
+    
+                <hr>
+    
+                <span class="misc">by tag</span>
+                <div class="tagList" id="tagList">
+                    <span class="tag">
+                        <select name="filter">
+    
+                            <option value="Heavy Wep.">Heavy Wep.</option>
+                            <option value="Medium Wep.">Medium Wep.</option>
+                            <option value="Light Wep.">Light Wep.</option>
+    
+                            <option value="Strength">Strength</option>
+                            <option value="Fortitude">Fortitude</option>
+                            <option value="Agility">Agility</option>
+                            <option value="Intelligence">Intelligence</option>
+                            <option value="Willpower">Willpower</option>
+                            <option value="Charisma">Charisma</option>
+    
+                            <option value="Flamecharm">Flamecharm</option>
+                            <option value="Frostdraw">Frostdraw</option>
+                            <option value="Thundercall">Thundercall</option>
+                            <option value="Galebreathe">Galebreathe</option>
+                            <option value="Shadowcast">Shadowcast</option>
+                            <option value="Ironsing">Ironsing</option>
+                        </select>
+                        <div class="slidecontainer">
+                            <input type="range" min="0" max="100" value="0" class="slider" id="cardsize"><span>100</span>
+                        </div>
+                        <i class="fa-solid fa-trash"></i>
+                    </span>
+                    <span class="addnew" onclick="addNewTag()"><i class="fa-solid fa-plus"></i>add new</span>
+                </div>
+            </div>
+
+        </section>
+        <section>
+            <div class="title" id="titleSection">Gallery</div>
+            <div class="container">
+                <div class="cardsContainer" id="cardsContainer">
+
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+</body>
+</html>

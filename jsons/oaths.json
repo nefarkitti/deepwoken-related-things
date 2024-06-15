@@ -1,0 +1,295 @@
+[
+    {
+        "name": "Arcwarder",
+        "icon": "fire",
+        "desc": "You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs.",
+        "cardtype": "oath",
+        "effects": {
+            "Wildcard": 1,
+            "Combat": 2
+        },
+        "reqs": {
+            "Fortitude": 20,
+            "Flamecharm": 20,
+            "Thundercall": 20
+        },
+        "mantras": [
+            "Arc Suit",
+            "Arc Wave",
+            "Arc Beam"
+        ],
+        "talents": [
+            "Arc Module: Dash",
+            "Arc Module: Guard",
+            "Arc Module: Leap",
+            "Arc Module: Null"
+        ]
+    },
+
+    {
+        "name": "Blindseer",
+        "desc": "You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it.",
+        "cardtype": "oath",
+        "icon": "eye",
+        "effects": {
+            "Support": 1,
+            "Wildcard": 1
+        },
+        "reqs": {
+            "Willpower": 40,
+            "talents": [
+                "Breathing Exercise",
+                "Conquer your Fears",
+                "Disbelief"
+            ]
+        },
+        "mantras": [
+            "Mindsoothe",
+            "Tranquil Circle",
+            "Sightless Beam"
+        ],
+        "talents": [
+            "All-Seeing Eye"
+        ]
+    },
+
+    {
+        "name": "Contractor",
+        "cardtype": "oath",
+        "icon": "handshake",
+        "desc": "Your heart is forever now eternally tied to Zieer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost.",
+        "effects": {
+            "Combat": 2,
+            "Ether": 20
+        },
+        "reqs": {
+            "rep": [
+                "Etrea",
+                "Ministry"
+            ],
+            "bell": true,
+            "quests": ["Talk to 4 different Deep Shrines"]
+        },
+        "mantras": [
+            "Judgement",
+            "Lords Slice",
+            "Equalizer"
+        ],
+        "talents": [
+            "Hidden Tendril",
+            "String Trick"
+        ]
+    },
+
+    {
+        "name": "Dawnwalker",
+        "cardtype": "oath",
+        "icon": "saviour",
+        "desc": "You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge.",
+        "effects": {
+            "Combat": 2
+        },
+        "reqs": {
+            "medallions": 30
+        },
+        "mantras": [
+            "Blinding Dawn",
+            "Radiant Kick",
+            "Radiant Dawn"
+        ],
+        "talents": [
+            "Protagonist Syndrome",
+            "Luminous Flash",
+            "Absolute Radiance"
+        ]
+    },
+
+    {
+        "name": "Fadetrimmer",
+        "cardtype": "oath",
+        "icon": "cube",
+        "desc": "You vow to forever hone your precision with the scissors. There will never be another fringe incident again.",
+        "effects": {
+            "Combat": 1,
+            "Wildcard": 1
+        },
+        "reqs": {
+            "Power": 12,
+            "Haircuts": 10
+        },
+        "mantras": [
+            "Precision Cuts",
+            "Close Shave"
+        ],
+        "talents": [
+            "Fadetrimmers Skillset",
+            "Hair Products",
+            "Hair Spray"
+        ]
+    },
+
+    {
+        "name": "Jetstriker",
+        "cardtype": "oath",
+        "icon": "wind",
+        "desc": "You vow to flow with the Song itself, drifting across where the trails may take you. If the Song premeates everything, then let it be your conduit, and you its master.",
+        "effects": {
+            "Mobility": 1,
+            "Wildcard": 1,
+            "Agility": 8
+        },
+        "reqs": {
+            "Agility": 50
+        },
+        "mantras": [
+            "False Strike",
+            "Jet Kick"
+        ],
+        "talents": [
+            "Acceleration Points",
+            "Jetstream Pursuit",
+            "Momentum Bar",
+            "Stratos Step",
+            "Decisive Winds",
+            "Rush of Ancients"
+        ]
+    },
+
+    {
+        "name": "Linkstriker",
+        "cardtype": "oath",
+        "icon": "bolt",
+        "desc": "The Entropy Catalyst generated enough force to fundamentally change your static of existence. You now exist between two states, your newfound clarity making the imperceptible. Bonds between all souls malleable to you.",
+        "effects": {
+            "Support": 2,
+            "Wildcard": 1
+        },
+        "mantras": [
+            "Symbiotic Link",
+            "Symbiotic Sustain",
+            "Parasitic Leech"
+        ],
+        "talents": [
+            "Entropy Link"
+        ]
+    },
+
+    {
+        "name": "Oathless",
+        "cardtype": "oath",
+        "icon": "spark",
+        "desc": "You vow to never be bound to any oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one?",
+        "effects": {
+            "Health": 10,
+            "Wildcard": 2,
+            "Oath Resistance": "15%"
+        },
+        "mantras": [
+        ],
+        "talents": [
+        ]
+    },
+
+    {
+        "name": "Saltchemist",
+        "cardtype": "oath",
+        "icon": "potion",
+        "desc": "You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel.",
+        "reqs": {
+            "Intelligence": 75,
+            "quests": ["Cieas Quest"]
+        },
+        "effects": {
+            "Support": 1,
+            "Wildcard": 1,
+            "Carry Load": 20
+        },
+        "mantras": [
+        ],
+        "talents": [
+            "Perpetual Distillery",
+            "Biotic Salts",
+            "Aromatic Salts",
+            "Antithetic Salts"
+        ]
+    },
+
+    {
+        "name": "Silentheart",
+        "cardtype": "oath",
+        "icon": "fist",
+        "desc": "You vow to reject the Words of the Song, denying yourself of mantras in pursuit of your own path to true strength, no matter the cost.",
+        "reqs": {
+            "Attunement": false,
+            "Weapon": 75,
+            "Strength": 25,
+            "eitherOr": {
+                "Charisma": 25,
+                "Agility": 25
+            }
+        },
+        "effects": {
+            "Posture": 2,
+            "Health": 10,
+            "Mantra Resistance": "10%"
+        },
+        "mantras": [
+        ],
+        "talents": [
+            "Mericless Blade",
+            "Dread Fighter",
+            "Lodestar",
+            "Ankle Cutter",
+            "True Vantage",
+            "Mani Katti",
+            "Vengeful Pursuit"
+        ]
+    },
+
+    {
+        "name": "Starkindred",
+        "cardtype": "oath",
+        "icon": "skeleton",
+        "desc": "You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you.",
+        "reqs": {
+            "Strength": 40,
+            "Grips": 1
+        },
+        "effects": {
+            "Combat": 2,
+            "Health": 8,
+            "extra": ["Modified Fire Blade", "Better Aerial Assault"]
+        },
+        "mantras": [
+            "Ascension",
+            "Celestial Assault",
+            "Sinister Halo"
+        ],
+        "talents": [
+        ]
+    },
+
+    {
+        "name": "Visionshaper",
+        "cardtype": "oath",
+        "icon": "cube",
+        "desc": "You vow to see only that which you wish to see. Reality itself is malleable, pliable to your deft hands.",
+        "reqs": {
+            "Charisma": 50,
+            "quests": ["Aelitas Quest"],
+            "items": ["1x Dark Feather", "4x Void Feather"]
+        },
+        "effects": {
+            "Combat": 2,
+            "Support": 1
+        },
+        "mantras": [
+            "Illusory Servants",
+            "Illusory Realm",
+            "Illusory Counter"
+        ],
+        "talents": [
+            "Cheap Trick"
+        ]
+    }
+]

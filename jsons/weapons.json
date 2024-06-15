@@ -1,0 +1,2067 @@
+[
+    {
+      "name": "Stiletto",
+      "reqs": [
+        "0 LHT"
+      ],
+      "dmg": "11",
+      "pen": "N/A",
+      "chip": "N/A",
+      "scaling": "LHT: 3",
+      "weight": "2",
+      "range": "6",
+      "swingspeed": "0.98x",
+      "endlag": "0.05s"
+    },
+    {
+      "name": "Gilded Knife",
+      "reqs": [
+        "25 LHT"
+      ],
+      "dmg": "13",
+      "pen": "N/A",
+      "chip": "N/A",
+      "scaling": "LHT: 8",
+      "weight": "4",
+      "range": "6",
+      "swingspeed": "0.96x",
+      "endlag": "0.05s"
+    },
+    {
+      "name": "Silver Dagger",
+      "reqs": [
+        "35 LHT"
+      ],
+      "dmg": "12",
+      "pen": "N/A",
+      "chip": "N/A",
+      "scaling": "LHT: 6",
+      "weight": "2",
+      "range": "6",
+      "swingspeed": "1.25x",
+      "endlag": "0.05s"
+    },
+    {
+      "name": "Canor Fang",
+      "reqs": [
+        "40 LHT"
+      ],
+      "dmg": "11",
+      "pen": "5%",
+      "chip": "N/A",
+      "scaling": "LHT: 10",
+      "weight": "5",
+      "range": "6",
+      "swingspeed": "0.98x",
+      "endlag": "0.05s"
+    },
+    {
+      "name": "Whaling Knife",
+      "reqs": [
+        "40 LHT"
+      ],
+      "dmg": "15",
+      "pen": "N/A",
+      "chip": "N/A",
+      "scaling": "LHT: 5",
+      "weight": "4",
+      "range": "6",
+      "swingspeed": "0.98x",
+      "endlag": "0.05s"
+    },
+    {
+      "name": "Champion's Dagger",
+      "reqs": [
+        "50 LHT"
+      ],
+      "dmg": "14.5",
+      "pen": "N/A",
+      "chip": "N/A",
+      "scaling": "LHT: 8",
+      "weight": "4",
+      "range": "6",
+      "swingspeed": "1.28x",
+      "endlag": "0.05s"
+    },
+    {
+      "name": "Central Dirk",
+      "reqs": [
+        "50 LHT"
+      ],
+      "dmg": "15",
+      "pen": "5%",
+      "chip": "N/A",
+      "scaling": "LHT: 7",
+      "weight": "4",
+      "range": "6.5",
+      "swingspeed": "0.96x",
+      "endlag": "0.05s"
+    },
+    {
+      "name": "Tanto",
+      "reqs": [
+        "50 LHT"
+      ],
+      "dmg": "15.5",
+      "pen": "N/A",
+      "chip": "N/A",
+      "scaling": "LHT: 8",
+      "weight": "3",
+      "range": "6.5",
+      "swingspeed": "1.13x",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Nemit's Sickle",
+      "reqs": [
+        "60 LHT"
+      ],
+      "dmg": "11",
+      "pen": "30%",
+      "chip": "N/A",
+      "scaling": "LHT: 13",
+      "weight": "4",
+      "range": "6",
+      "swingspeed": "0.98x",
+      "endlag": "0.05s"
+    },
+    {
+      "name": "Flareblood Kamas (Bleed)",
+      "reqs": [
+        "60 LHT; 30 INT"
+      ],
+      "dmg": "13",
+      "pen": "30%",
+      "chip": "N/A",
+      "scaling": "INT: 2 LHT: 8",
+      "weight": "4",
+      "range": "6",
+      "swingspeed": "1.25x",
+      "endlag": "0.05s"
+    },
+    {
+      "name": "Krulian Knife",
+      "reqs": [
+        "75 LHT"
+      ],
+      "dmg": "12.5",
+      "pen": "20%",
+      "chip": "N/A",
+      "scaling": "LHT: 10.5",
+      "weight": "4",
+      "range": "6",
+      "swingspeed": "1.25x",
+      "endlag": "0.05s"
+    },
+    {
+      "name": "Kyrsedge",
+      "reqs": [
+        "75 LHT"
+      ],
+      "dmg": "13",
+      "pen": "30%",
+      "chip": "N/A",
+      "scaling": "LHT: 8.5",
+      "weight": "4",
+      "range": "6",
+      "swingspeed": "1.25x",
+      "endlag": "0.05s"
+    },
+    {
+      "name": "Alloyed Whaling Knife",
+      "reqs": [
+        "75 LHT"
+      ],
+      "dmg": "15",
+      "pen": "15%",
+      "chip": "N/A",
+      "scaling": "LHT: 8",
+      "weight": "4",
+      "range": "6",
+      "swingspeed": "0.98x",
+      "endlag": "0.05s"
+    },
+    {
+      "name": "Alloyed Tanto",
+      "reqs": [
+        "80 LHT"
+      ],
+      "dmg": "16",
+      "pen": "5%",
+      "chip": "N/A",
+      "scaling": "LHT: 8",
+      "weight": "3",
+      "range": "6.5",
+      "swingspeed": "0.86x",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Cerulean Thread",
+      "reqs": [
+        "85 LHT; LVL 10"
+      ],
+      "dmg": "15",
+      "pen": "25%",
+      "chip": "N/A",
+      "scaling": "LHT: 7.5",
+      "weight": "4",
+      "range": "6",
+      "swingspeed": "1.25x",
+      "endlag": "0.04s"
+    },
+    {
+      "name": " Fist (Way of Navae/Legion Kata)\n",
+      "reqs": [
+        "0 LHT\n"
+      ],
+      "dmg": "12\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 7\n",
+      "weight": "3\n",
+      "range": "6\n",
+      "swingspeed": "1.13x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Iron Cestus\n",
+      "reqs": [
+        "0 LHT\n"
+      ],
+      "dmg": "13.5\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 7\n",
+      "weight": "5\n",
+      "range": "6\n",
+      "swingspeed": "1.14x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Legion Cestus\n",
+      "reqs": [
+        "30 LHT\n"
+      ],
+      "dmg": "15\n",
+      "pen": "5%\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 9\n",
+      "weight": "5\n",
+      "range": "6\n",
+      "swingspeed": "1.14x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Jus Karita\n",
+      "reqs": [
+        "40 LHT",
+        "LVL 5\n"
+      ],
+      "dmg": "14\n",
+      "pen": "20%\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 9\n",
+      "weight": "3\n",
+      "range": "7\n",
+      "swingspeed": "1.17x\n",
+      "endlag": "0.05s\n"
+    },
+    {
+      "name": "Anklets of Alsin\n",
+      "reqs": [
+        "0 LHT\n"
+      ],
+      "dmg": "13.5\n",
+      "pen": "20%\n",
+      "chip": "10%\n",
+      "scaling": "LHT: 9\n",
+      "weight": "3\n",
+      "range": "7\n",
+      "swingspeed": "1.17x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Flamekeeper Cestus\n",
+      "reqs": [
+        "65 LHT\n"
+      ],
+      "dmg": "15.5\n",
+      "pen": "5%\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 9.5\n",
+      "weight": "5\n",
+      "range": "6\n",
+      "swingspeed": "1.14x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Light's Final Toll\n",
+      "reqs": [
+        "60 WLL",
+        "35 LHT\n"
+      ],
+      "dmg": "12\n",
+      "pen": "5%\n",
+      "chip": "N/A\n",
+      "scaling": "WLL: 10 LHT: 4\n",
+      "weight": "5\n",
+      "range": "7\n",
+      "swingspeed": "1.13x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Coral Cestus\n",
+      "reqs": [
+        "75 LHT\n"
+      ],
+      "dmg": "16\n",
+      "pen": "15%\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 9.5\n",
+      "weight": "5\n",
+      "range": "6\n",
+      "swingspeed": "0.82x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "\nDrakemaw Gauntlets (Bleed)\n\n",
+      "reqs": [
+        "75 LHT\n"
+      ],
+      "dmg": "15\n",
+      "pen": "10%\n",
+      "chip": "10%\n",
+      "scaling": "LHT: 7.5\n",
+      "weight": "4\n",
+      "range": "6\n",
+      "swingspeed": "1.09x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Silversix\n",
+      "reqs": [
+        "0 LHT\n"
+      ],
+      "dmg": "10\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 13\n",
+      "weight": "1\n",
+      "range": "10\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Flintlock\n",
+      "reqs": [
+        "20 LHT\n"
+      ],
+      "dmg": "11\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 12\n",
+      "weight": "1\n",
+      "range": "10\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Dawnshot\n",
+      "reqs": [
+        "40 LHT\n"
+      ],
+      "dmg": "14\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 12\n",
+      "weight": "1\n",
+      "range": "10.5\n",
+      "swingspeed": "1.06x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Repeater\n",
+      "reqs": [
+        "65 LHT\n"
+      ],
+      "dmg": "14\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 15\n",
+      "weight": "1\n",
+      "range": "12\n",
+      "swingspeed": "1.13x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Dragoon\n",
+      "reqs": [
+        "65 LHT\n"
+      ],
+      "dmg": "16\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 12\n",
+      "weight": "1\n",
+      "range": "11\n",
+      "swingspeed": "1.06x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Alloyed Dawnshot\n",
+      "reqs": [
+        "75 LHT\n"
+      ],
+      "dmg": "16\n",
+      "pen": "5%\n",
+      "chip": "10%\n",
+      "scaling": "LHT: 12\n",
+      "weight": "1\n",
+      "range": "10.5\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Aranea\n",
+      "reqs": [
+        "200 LHT\n"
+      ],
+      "dmg": "14\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 15\n",
+      "weight": "1\n",
+      "range": "12\n",
+      "swingspeed": "1x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Quickfang\n",
+      "reqs": [
+        "0 LHT\n"
+      ],
+      "dmg": "12\n",
+      "pen": "5%\n",
+      "chip": "N/A",
+      "scaling": "LHT: 7\n",
+      "weight": "4\n",
+      "range": "8\n",
+      "swingspeed": "0.81x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Apprentice Rapier\n",
+      "reqs": [
+        "20 LHT\n"
+      ],
+      "dmg": "13\n",
+      "pen": "N/A\n",
+      "chip": "N/A",
+      "scaling": "LHT: 6\n",
+      "weight": "4\n",
+      "range": "8\n",
+      "swingspeed": "1.06x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Inquisitor's Thorn\n",
+      "reqs": [
+        "40 LHT\n"
+      ],
+      "dmg": "14\n",
+      "pen": "10%\n",
+      "chip": "N/A",
+      "scaling": "LHT: 7\n",
+      "weight": "4\n",
+      "range": "8\n",
+      "swingspeed": "1.08x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Crucible Rapier\n",
+      "reqs": [
+        "75 LHT\n"
+      ],
+      "dmg": "15\n",
+      "pen": "20%\n",
+      "chip": "N/A",
+      "scaling": "LHT: 8\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "0.82x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Golden Swordfish\n",
+      "reqs": [
+        "75 LHT\n"
+      ],
+      "dmg": "15\n",
+      "pen": "20%\n",
+      "chip": "N/A",
+      "scaling": "LHT: 8\n",
+      "weight": "5\n",
+      "range": "8.1\n",
+      "swingspeed": "0.82x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Skullpiercer (Bleed)\n",
+      "reqs": [
+        "75 LHT\n"
+      ],
+      "dmg": "14\n",
+      "pen": "10%\n",
+      "chip": "N/A",
+      "scaling": "LHT: 7.5\n",
+      "weight": "4\n",
+      "range": "8.5\n",
+      "swingspeed": "1.08x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Kyrstreza\n",
+      "reqs": [
+        "75 LHT\n"
+      ],
+      "dmg": "15\n",
+      "pen": "30%\n",
+      "chip": "N/A",
+      "scaling": "LHT: 8.5\n",
+      "weight": "4\n",
+      "range": "8\n",
+      "swingspeed": "0.82x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Sword\n",
+      "reqs": [
+        "0 MED\n"
+      ],
+      "dmg": "18\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 2.5\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "0.75x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Messer\n",
+      "reqs": [
+        "10 MED\n"
+      ],
+      "dmg": "20\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 5\n",
+      "weight": "6\n",
+      "range": "7.5\n",
+      "swingspeed": "0.93x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Falchion\n",
+      "reqs": [
+        "20 MED\n"
+      ],
+      "dmg": "16\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 6\n",
+      "weight": "4\n",
+      "range": "7.5\n",
+      "swingspeed": "1.06x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Scimitar\n",
+      "reqs": [
+        "20 MED\n"
+      ],
+      "dmg": "15\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 3\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "0.82x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Katana\n",
+      "reqs": [
+        "25 MED\n"
+      ],
+      "dmg": "18\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 6\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "0.75x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Worshipper Longsword\n",
+      "reqs": [
+        "30 MED\n"
+      ],
+      "dmg": "19\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 4\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "0.75x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Officer Saber\n",
+      "reqs": [
+        "30 MED\n"
+      ],
+      "dmg": "22\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 4.5\n",
+      "weight": "6\n",
+      "range": "8\n",
+      "swingspeed": "0.75x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Vigil Longsword\n",
+      "reqs": [
+        "40 MED\n"
+      ],
+      "dmg": "20\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 6\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "0.75x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Champion's Sword\n",
+      "reqs": [
+        "40 MED\n"
+      ],
+      "dmg": "19\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 6.5\n",
+      "weight": "4\n",
+      "range": "8\n",
+      "swingspeed": "1.02x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Cavalry Saber\n",
+      "reqs": [
+        "40 MED\n"
+      ],
+      "dmg": "21\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 5\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "1x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Shotel\n",
+      "reqs": [
+        "45 MED\n"
+      ],
+      "dmg": "22\n",
+      "pen": "N/A\n",
+      "chip": "15%\n",
+      "scaling": "MED: 5\n",
+      "weight": "4\n",
+      "range": "8\n",
+      "swingspeed": "1x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Warden Ceremonial Sword\n",
+      "reqs": [
+        "50 MED\n"
+      ],
+      "dmg": "17\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 7\n",
+      "weight": "4\n",
+      "range": "7.5\n",
+      "swingspeed": "1.06x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Razor Cutlass (Bleed)\n",
+      "reqs": [
+        "60 MED\n"
+      ],
+      "dmg": "18\n",
+      "pen": "25%\n",
+      "chip": "10%\n",
+      "scaling": "MED: 7.5\n",
+      "weight": "8\n",
+      "range": "8\n",
+      "swingspeed": "0.71x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Forgotten Gladius\n",
+      "reqs": [
+        "65 MED\n"
+      ],
+      "dmg": "18\n",
+      "pen": "13%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 7\n",
+      "weight": "5\n",
+      "range": "7.5\n",
+      "swingspeed": "1.04x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Serpent's Edge\n",
+      "reqs": [
+        "75 MED\n"
+      ],
+      "dmg": "22\n",
+      "pen": "5%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 6\n",
+      "weight": "6\n",
+      "range": "8\n",
+      "swingspeed": "0.97x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Hallowscleave\n",
+      "reqs": [
+        "75 MED\n"
+      ],
+      "dmg": "19\n",
+      "pen": "25%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 7\n",
+      "weight": "6\n",
+      "range": "8\n",
+      "swingspeed": "1x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Alloyed Messer\n",
+      "reqs": [
+        "75 MED\n"
+      ],
+      "dmg": "21\n",
+      "pen": "15%\n",
+      "chip": "15%\n",
+      "scaling": "MED: 6\n",
+      "weight": "7\n",
+      "range": "7.5\n",
+      "swingspeed": "0.73x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Alloyed Falchion\n",
+      "reqs": [
+        "75 MED\n"
+      ],
+      "dmg": "16\n",
+      "pen": "20%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 7\n",
+      "weight": "5\n",
+      "range": "7.5\n",
+      "swingspeed": "1.06x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Alloyed Vigil Longsword\n",
+      "reqs": [
+        "75 MED\n"
+      ],
+      "dmg": "20\n",
+      "pen": "20%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 7.5\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "0.75x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Alloyed Shotel\n",
+      "reqs": [
+        "75 MED\n"
+      ],
+      "dmg": "22\n",
+      "pen": "10%\n",
+      "chip": "30%\n",
+      "scaling": "MED: 6\n",
+      "weight": "4\n",
+      "range": "8\n",
+      "swingspeed": "0.73x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Alloyed Katana\n",
+      "reqs": [
+        "75 MED\n"
+      ],
+      "dmg": "20\n",
+      "pen": "10%\n",
+      "chip": "10%\n",
+      "scaling": "MED: 7\n",
+      "weight": "6\n",
+      "range": "8\n",
+      "swingspeed": "1x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Kyrsblade\n",
+      "reqs": [
+        "75 MED\n"
+      ],
+      "dmg": "22\n",
+      "pen": "5%\n",
+      "chip": "30%\n",
+      "scaling": "MED: 6\n",
+      "weight": "6\n",
+      "range": "7.5\n",
+      "swingspeed": "1x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Purple Cloud\n",
+      "reqs": [
+        "85 MED",
+        "LVL 10\n"
+      ],
+      "dmg": "16.5\n",
+      "pen": "15%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 9\n",
+      "weight": "5\n",
+      "range": "7\n",
+      "swingspeed": "1.06x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Shattered Katana\n",
+      "reqs": [
+        "90 MED",
+        "LVL 10\n"
+      ],
+      "dmg": "20\n",
+      "pen": "30%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 7\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "0.98x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Irontusk\n",
+      "reqs": [
+        "0 MED\n"
+      ],
+      "dmg": "16.5\n",
+      "pen": "10%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 3\n",
+      "weight": "5\n",
+      "range": "9\n",
+      "swingspeed": "0.68x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Iron Spear\n",
+      "reqs": [
+        "0 MED\n"
+      ],
+      "dmg": "17\n",
+      "pen": "10%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 2.5\n",
+      "weight": "5\n",
+      "range": "9\n",
+      "swingspeed": "0.68x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Gremorian Longspear\n",
+      "reqs": [
+        "20 MED\n"
+      ],
+      "dmg": "18\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 4\n",
+      "weight": "5\n",
+      "range": "9\n",
+      "swingspeed": "0.9x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Ritual Spear\n",
+      "reqs": [
+        "35 MED\n"
+      ],
+      "dmg": "19\n",
+      "pen": "25%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 5\n",
+      "weight": "5\n",
+      "range": "9\n",
+      "swingspeed": "0.68x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Acheron's Warspear (Bleed)\n",
+      "reqs": [
+        "40 MED\n"
+      ],
+      "dmg": "18\n",
+      "pen": "15%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 6\n",
+      "weight": "5\n",
+      "range": "9\n",
+      "swingspeed": "0.7x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Imperial Staff\n",
+      "reqs": [
+        "40 MED; 40 STR\n"
+      ],
+      "dmg": "19\n",
+      "pen": "10%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 5; STR: 3\n",
+      "weight": "6\n",
+      "range": "8\n",
+      "swingspeed": "0.75x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Trident Spear\n",
+      "reqs": [
+        "50 MED\n"
+      ],
+      "dmg": "19\n",
+      "pen": "25%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 6\n",
+      "weight": "5\n",
+      "range": "9\n",
+      "swingspeed": "0.9x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Serrated Warspear (Bleed)\n",
+      "reqs": [
+        "65 MED\n"
+      ],
+      "dmg": "18\n",
+      "pen": "20%\n",
+      "chip": "10%\n",
+      "scaling": "MED: 6.5\n",
+      "weight": "5\n",
+      "range": "9\n",
+      "swingspeed": "0.7x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Bloodtide Trident (Bleed)\n",
+      "reqs": [
+        "75 MED\n"
+      ],
+      "dmg": "18\n",
+      "pen": "25%\n",
+      "chip": "10%\n",
+      "scaling": "MED: 6\n",
+      "weight": "5\n",
+      "range": "9\n",
+      "swingspeed": "0.93x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Alloyed Gremorian Longspear\n",
+      "reqs": [
+        "75 MED\n"
+      ],
+      "dmg": "20\n",
+      "pen": "10%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 5\n",
+      "weight": "5\n",
+      "range": "9\n",
+      "swingspeed": "0.7x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Rifle Spear\n",
+      "reqs": [
+        "80 MED\n"
+      ],
+      "dmg": "21\n",
+      "pen": "25%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 7\n",
+      "weight": "5\n",
+      "range": "9\n",
+      "swingspeed": "0.68x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Alloyed Trident Spear\n",
+      "reqs": [
+        "85 MED\n"
+      ],
+      "dmg": "19\n",
+      "pen": "25%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 7\n",
+      "weight": "5\n",
+      "range": "9\n",
+      "swingspeed": "0.69x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "True Seraph's Spear\n",
+      "reqs": [
+        "90 MED\n"
+      ],
+      "dmg": "18.5\n",
+      "pen": "20%\n",
+      "chip": "40%\n",
+      "scaling": "MED: 7\n",
+      "weight": "5\n",
+      "range": "9\n",
+      "swingspeed": "0.72x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Kyrsglaive (Bleed)\n",
+      "reqs": [
+        "90 MED\n"
+      ],
+      "dmg": "18.5\n",
+      "pen": "20%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 5\n",
+      "weight": "5\n",
+      "range": "9\n",
+      "swingspeed": "0.96x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Mace\n",
+      "reqs": [
+        "10 MED\n"
+      ],
+      "dmg": "20\n",
+      "pen": "5%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 5\n",
+      "weight": "6\n",
+      "range": "7.5\n",
+      "swingspeed": "0.7x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Toothed Club\n",
+      "reqs": [
+        "30 MED\n"
+      ],
+      "dmg": "15\n",
+      "pen": "10%\n",
+      "chip": "5%\n",
+      "scaling": "MED: 5\n",
+      "weight": "6\n",
+      "range": "7.5\n",
+      "swingspeed": "0.74x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Morning Star\n",
+      "reqs": [
+        "50 MED\n"
+      ],
+      "dmg": "16\n",
+      "pen": "20%\n",
+      "chip": "20%\n",
+      "scaling": "MED: 5.5\n",
+      "weight": "5\n",
+      "range": "7.5\n",
+      "swingspeed": "0.74x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Sacred Hammer\n",
+      "reqs": [
+        "65 MED\n"
+      ],
+      "dmg": "19.5\n",
+      "pen": "10%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 7\n",
+      "weight": "5\n",
+      "range": "7.5\n",
+      "swingspeed": "0.97x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Pernach\n",
+      "reqs": [
+        "75 MED\n"
+      ],
+      "dmg": "17\n",
+      "pen": "30%\n",
+      "chip": "10%\n",
+      "scaling": "MED: 6\n",
+      "weight": "4\n",
+      "range": "8\n",
+      "swingspeed": "0.74x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Summer Rifle\n",
+      "reqs": [
+        "40 MED\n"
+      ],
+      "dmg": "17\n",
+      "pen": "N/A\n",
+      "chip": "N/A",
+      "scaling": "MED: 6\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "0.75x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Rosen's Peacemaker\n",
+      "reqs": [
+        "75 MED\n"
+      ],
+      "dmg": "18\n",
+      "pen": "N/A\n",
+      "chip": "N/A",
+      "scaling": "MED: 8\n",
+      "weight": "4\n",
+      "range": "8\n",
+      "swingspeed": "1x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Iron Blunderbuss\n",
+      "reqs": [
+        "75 MED\n"
+      ],
+      "dmg": "20\n",
+      "pen": "25%\n",
+      "chip": "N/A",
+      "scaling": "MED: 7\n",
+      "weight": "4\n",
+      "range": "8\n",
+      "swingspeed": "0.97x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Battleaxe\n",
+      "reqs": [
+        "0 HVY\n"
+      ],
+      "dmg": "20\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 5\n",
+      "weight": "6\n",
+      "range": "8\n",
+      "swingspeed": "0.62x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Halberd\n",
+      "reqs": [
+        "25 HVY\n"
+      ],
+      "dmg": "22\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 7\n",
+      "weight": "5\n",
+      "range": "9\n",
+      "swingspeed": "0.6x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Adretian Axe\n",
+      "reqs": [
+        "35 HVY\n"
+      ],
+      "dmg": "24\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 7\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "0.85x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Canorian Axe\n",
+      "reqs": [
+        "35 HVY\n"
+      ],
+      "dmg": "23.5\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 7\n",
+      "weight": "4\n",
+      "range": "8\n",
+      "swingspeed": "0.83x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Iron Birch\n",
+      "reqs": [
+        "55 HVY\n"
+      ],
+      "dmg": "26.5\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 6\n",
+      "weight": "4\n",
+      "range": "8\n",
+      "swingspeed": "0.85x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Evanspear Hand Axe (Bleed)\n",
+      "reqs": [
+        "70 HVY\n"
+      ],
+      "dmg": "25\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 9.5\n",
+      "weight": "8\n",
+      "range": "8.5\n",
+      "swingspeed": "0.73x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Night Axe\n",
+      "reqs": [
+        "75 HVY\n"
+      ],
+      "dmg": "23\n",
+      "pen": "5%\n",
+      "chip": "80%\n",
+      "scaling": "HVY: 8\n",
+      "weight": "10\n",
+      "range": "8.5\n",
+      "swingspeed": "0.58x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Master Hawk's HandAxe\n",
+      "reqs": [
+        "75 HVY\n"
+      ],
+      "dmg": "24.5\n",
+      "pen": "5%\n",
+      "chip": "25%\n",
+      "scaling": "HVY: 10\n",
+      "weight": "10\n",
+      "range": "8.5\n",
+      "swingspeed": "0.6x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Relic Axe\n",
+      "reqs": [
+        "75 HVY\n"
+      ],
+      "dmg": "25\n",
+      "pen": "25%\n",
+      "chip": "10%\n",
+      "scaling": "HVY: 9\n",
+      "weight": "10\n",
+      "range": "8.5\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Enforcer's Axe\n",
+      "reqs": [
+        "75 HVY",
+        "LVL 6\n"
+      ],
+      "dmg": "26\n",
+      "pen": "10%\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 10\n",
+      "weight": "8\n",
+      "range": "8.5\n",
+      "swingspeed": "0.76x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Skyreap Blade\n",
+      "reqs": [
+        "75 HVY\n"
+      ],
+      "dmg": "23\n",
+      "pen": "25%\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 7\n",
+      "weight": "7.5\n",
+      "range": "8.5\n",
+      "swingspeed": "0.91x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Alloyed Canorian Axe\n",
+      "reqs": [
+        "75 HVY\n"
+      ],
+      "dmg": "24\n",
+      "pen": "20%\n",
+      "chip": "10%\n",
+      "scaling": "HVY: 9\n",
+      "weight": "7\n",
+      "range": "8\n",
+      "swingspeed": "0.62x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Alloyed Halberd\n",
+      "reqs": [
+        "75 HVY\n"
+      ],
+      "dmg": "24\n",
+      "pen": "15%\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 8\n",
+      "weight": "5\n",
+      "range": "9\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Alloyed Adretian Axe\n",
+      "reqs": [
+        "75 HVY\n"
+      ],
+      "dmg": "24\n",
+      "pen": "10%\n",
+      "chip": "10%\n",
+      "scaling": "HVY: 8\n",
+      "weight": "8\n",
+      "range": "8\n",
+      "swingspeed": "0.87x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Pale Briar\n",
+      "reqs": [
+        "85 HVY",
+        "LVL 10\n"
+      ],
+      "dmg": "23\n",
+      "pen": "25%\n",
+      "chip": "10%\n",
+      "scaling": "HVY: 7.5\n",
+      "weight": "7\n",
+      "range": "10\n",
+      "swingspeed": "0.81x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Avenger\n",
+      "reqs": [
+        "0 HVY\n"
+      ],
+      "dmg": "21\n",
+      "pen": "0%\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 6.5\n",
+      "weight": "8\n",
+      "range": "8.5\n",
+      "swingspeed": "0.62x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Zweihander\n",
+      "reqs": [
+        "20 HVY",
+        "10 STR\n"
+      ],
+      "dmg": "22\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 7\n",
+      "weight": "7\n",
+      "range": "9\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Markor's Inheritor\n",
+      "reqs": [
+        "30 HVY",
+        "10 STR\n"
+      ],
+      "dmg": "24\n",
+      "pen": "10%\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 7\n",
+      "weight": "8\n",
+      "range": "8.5\n",
+      "swingspeed": "0.64x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Crescent Cleaver (Bleed)\n",
+      "reqs": [
+        "40 HVY",
+        "10 STR\n"
+      ],
+      "dmg": "22.4\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 8\n",
+      "weight": "9\n",
+      "range": "9\n",
+      "swingspeed": "0.6x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Darksteel Greatsword\n",
+      "reqs": [
+        "40 HVY",
+        "10 STR\n"
+      ],
+      "dmg": "26\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 7\n",
+      "weight": "9\n",
+      "range": "9\n",
+      "swingspeed": "0.6x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Inquisitor's Straight Sword\n",
+      "reqs": [
+        "40 HVY\n"
+      ],
+      "dmg": "23.5\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 8.3\n",
+      "weight": "9\n",
+      "range": "9\n",
+      "swingspeed": "0.6x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Kyrsieger\n",
+      "reqs": [
+        "50 HVY",
+        "15 CHA\n"
+      ],
+      "dmg": "24\n",
+      "pen": "15%\n",
+      "chip": "10%\n",
+      "scaling": "HVY: 7, CHA: 2\n",
+      "weight": "9\n",
+      "range": "9\n",
+      "swingspeed": "0.83x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "First Light\n",
+      "reqs": [
+        "75 HVY\n"
+      ],
+      "dmg": "25.5\n",
+      "pen": "30%\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 8\n",
+      "weight": "10\n",
+      "range": "8.5\n",
+      "swingspeed": "0.83x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Alloyed Zweihander\n",
+      "reqs": [
+        "75 HVY",
+        "10 STR\n"
+      ],
+      "dmg": "23\n",
+      "pen": "10%\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 10\n",
+      "weight": "7\n",
+      "range": "9\n",
+      "swingspeed": "0.62x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Alloyed Crescent Cleaver (Bleed)\n",
+      "reqs": [
+        "75 HVY",
+        "10 STR\n"
+      ],
+      "dmg": "22.4\n",
+      "pen": "N/A\n",
+      "chip": "20%\n",
+      "scaling": "HVY: 9.5\n",
+      "weight": "9\n",
+      "range": "9\n",
+      "swingspeed": "0.6x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Darkalloy Greatsword\n",
+      "reqs": [
+        "75 HVY",
+        "10 STR\n"
+      ],
+      "dmg": "26\n",
+      "pen": "N/A\n",
+      "chip": "10%\n",
+      "scaling": "HVY: 8\n",
+      "weight": "9\n",
+      "range": "9\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Alloyed Inheritor\n",
+      "reqs": [
+        "75 HVY",
+        "10 STR\n"
+      ],
+      "dmg": "24\n",
+      "pen": "15%\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 8\n",
+      "weight": "8\n",
+      "range": "8.5\n",
+      "swingspeed": "0.64x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Kyrscleave (Bleed)\n",
+      "reqs": [
+        "75 HVY\n"
+      ],
+      "dmg": "24\n",
+      "pen": "N/A\n",
+      "chip": "15%\n",
+      "scaling": "HVY: 8.5\n",
+      "weight": "9\n",
+      "range": "9\n",
+      "swingspeed": "0.81x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Railblade\n",
+      "reqs": [
+        "80 HVY",
+        "LVL 10\n"
+      ],
+      "dmg": "22\n",
+      "pen": "25%\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 8.3\n",
+      "weight": "8\n",
+      "range": "8.5\n",
+      "swingspeed": "0.91x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Enforcer's Blade\n",
+      "reqs": [
+        "80 HVY",
+        "25 STR",
+        "LVL 6\n"
+      ],
+      "dmg": "25\n",
+      "pen": "5%\n",
+      "chip": "15%\n",
+      "scaling": "HVY: 9\n",
+      "weight": "10\n",
+      "range": "8.5\n",
+      "swingspeed": "0.79x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Steel Maul\n",
+      "reqs": [
+        "20 HVY",
+        "10 STR\n"
+      ],
+      "dmg": "22\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 7\n",
+      "weight": "7\n",
+      "range": "9\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Forge Greathammer\n",
+      "reqs": [
+        "55 HVY",
+        "10 STR\n"
+      ],
+      "dmg": "24\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 8\n",
+      "weight": "9\n",
+      "range": "9\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Great Maul\n",
+      "reqs": [
+        "65 HVY",
+        "30 STR\n"
+      ],
+      "dmg": "25\n",
+      "pen": "5%\n",
+      "chip": "10%\n",
+      "scaling": "HVY: 8.3\n",
+      "weight": "10\n",
+      "range": "9\n",
+      "swingspeed": "0.85x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Pale Morning\n",
+      "reqs": [
+        "75 HVY",
+        "10 STR",
+        "LVL 10\n"
+      ],
+      "dmg": "24\n",
+      "pen": "15%\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 9\n",
+      "weight": "10\n",
+      "range": "9\n",
+      "swingspeed": "0.83x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Putrid Edenstaff\n",
+      "reqs": [
+        "75 HVY\n"
+      ],
+      "dmg": "25\n",
+      "pen": "15%\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 8.5\n",
+      "weight": "9\n",
+      "range": "9\n",
+      "swingspeed": "0.81x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Petra's Anchor\n",
+      "reqs": [
+        "75 HVY",
+        "10 STR",
+        "LVL 10\n"
+      ],
+      "dmg": "26\n",
+      "pen": "15%\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 8\n",
+      "weight": "9\n",
+      "range": "9\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Sovereign's Punishment\n",
+      "reqs": [
+        "75 HVY",
+        "20 STR\n"
+      ],
+      "dmg": "26\n",
+      "pen": "20%\n",
+      "chip": "10%\n",
+      "scaling": "HVY: 9\n",
+      "weight": "13\n",
+      "range": "9\n",
+      "swingspeed": "0.73x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Alloyed Steel Maul\n",
+      "reqs": [
+        "75 HVY",
+        "10 STR\n"
+      ],
+      "dmg": "24\n",
+      "pen": "10%\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 8\n",
+      "weight": "7\n",
+      "range": "9\n",
+      "swingspeed": "0.64x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Enforcer's Hammer\n",
+      "reqs": [
+        "80 HVY",
+        "25 STR",
+        "LVL 10\n"
+      ],
+      "dmg": "25\n",
+      "pen": "10%\n",
+      "chip": "10%\n",
+      "scaling": "HVY: 9\n",
+      "weight": "12\n",
+      "range": "8.5\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Stoneheart\n",
+      "reqs": [
+        "80 HVY",
+        "20 STR\n"
+      ],
+      "dmg": "24\n",
+      "pen": "10%\n",
+      "chip": "10%\n",
+      "scaling": "HVY: 10\n",
+      "weight": "12\n",
+      "range": "8.5\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "0.1s\n"
+    },
+    {
+      "name": "Hivelord's Hubris\n",
+      "reqs": [
+        "100 HVY",
+        "60 STR\n"
+      ],
+      "dmg": "30\n",
+      "pen": "5%\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 10\n",
+      "weight": "10\n",
+      "range": "10\n",
+      "swingspeed": "0.45x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Wyrmtooth\n",
+      "reqs": [
+        "60 MED",
+        "40 HVY\n"
+      ],
+      "dmg": "20\n",
+      "pen": "20%\n",
+      "chip": "N/A\n",
+      "scaling": "MED: 6.2, HVY: 4.2\n",
+      "weight": "6\n",
+      "range": "10\n",
+      "swingspeed": "0.93x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Ysley's Pyre Keeper\n",
+      "reqs": [
+        "25 HVY",
+        "75 FIR",
+        "10 LHT\n"
+      ],
+      "dmg": "23\n",
+      "pen": "15%\n",
+      "chip": "N/A\n",
+      "scaling": "HVY: 5, FIR: 6\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "0.93x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Hero Blade of Flame\n",
+      "reqs": [
+        "75 FIR",
+        "LVL 11\n"
+      ],
+      "dmg": "20\n",
+      "pen": "10%\n",
+      "chip": "N/A",
+      "scaling": "FIR: 5.5\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "1x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Hero Blade of Lightning\n",
+      "reqs": [
+        "75 THD",
+        "LVL 11\n"
+      ],
+      "dmg": "20\n",
+      "pen": "10%\n",
+      "chip": "N/A",
+      "scaling": "THD: 5.5\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "1x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Hero Blade of Frost\n",
+      "reqs": [
+        "75 ICE",
+        "LVL 11\n"
+      ],
+      "dmg": "20\n",
+      "pen": "10%\n",
+      "chip": "N/A",
+      "scaling": "ICE: 5.5\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "1x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Hero Blade of Wind\n",
+      "reqs": [
+        "75 WND",
+        "LVL 11\n"
+      ],
+      "dmg": "20\n",
+      "pen": "10%\n",
+      "chip": "N/A",
+      "scaling": "WND: 5.5\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "1x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Hero Blade of Shadow\n",
+      "reqs": [
+        "75 SDW",
+        "LVL 11\n"
+      ],
+      "dmg": "20\n",
+      "pen": "10%\n",
+      "chip": "N/A",
+      "scaling": "SDW: 5.5\n",
+      "weight": "5\n",
+      "range": "\n",
+      "swingspeed": "1x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Stormseye\n",
+      "reqs": [
+        "75 THD",
+        "40 MED\n"
+      ],
+      "dmg": "19.5\n",
+      "pen": "N/A\n",
+      "chip": "N/A",
+      "scaling": "THD: 6, MED: 3\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "1x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Gran Sudaruska\n",
+      "reqs": [
+        "75 ICE",
+        "30 HVY",
+        "LVL 10\n"
+      ],
+      "dmg": "24\n",
+      "pen": "N/A\n",
+      "chip": "N/A",
+      "scaling": "ICE: 8 HVY: 4\n",
+      "weight": "6\n",
+      "range": "8.5\n",
+      "swingspeed": "0.83x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Curved Blade of Winds\n",
+      "reqs": [
+        "75 WND",
+        "25 MED",
+        "LVL 10\n"
+      ],
+      "dmg": "17.5\n",
+      "pen": "15%\n",
+      "chip": "N/A",
+      "scaling": "MED: 5, WND: 5\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "1.04x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Crypt Blade\n",
+      "reqs": [
+        "75 SDW",
+        "40 HVY",
+        "LVL 10\n"
+      ],
+      "dmg": "22\n",
+      "pen": "N/A\n",
+      "chip": "N/A",
+      "scaling": "SDW: 9 HVY: 4\n",
+      "weight": "9\n",
+      "range": "9\n",
+      "swingspeed": "0.85x\n",
+      "endlag": "0.15s\n"
+    },
+    {
+      "name": "Ignition Deepcrusher\n",
+      "reqs": [
+        "75 MTL",
+        "40 MED,\n"
+      ],
+      "dmg": "18\n",
+      "pen": "20%\n",
+      "chip": "N/A",
+      "scaling": "MTL: 4 MED: 3\n",
+      "weight": "4\n",
+      "range": "8\n",
+      "swingspeed": "1.05x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "\nYsley's Pyre Keeper\n\n",
+      "reqs": [
+        "25 HVY",
+        "75 FIR",
+        "10 LHT\n"
+      ],
+      "dmg": "23\n",
+      "pen": "15%\n",
+      "chip": "N/A",
+      "scaling": "HVY: 5, FIR: 6\n",
+      "weight": "5\n",
+      "range": "8\n",
+      "swingspeed": "0.93x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Silversix\n",
+      "reqs": [
+        "0 LHT\n"
+      ],
+      "dmg": "10\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 13\n",
+      "weight": "1\n",
+      "range": "10\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Flintlock\n",
+      "reqs": [
+        "20 LHT\n"
+      ],
+      "dmg": "11\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 12\n",
+      "weight": "1\n",
+      "range": "10\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Dawnshot\n",
+      "reqs": [
+        "40 LHT\n"
+      ],
+      "dmg": "14\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 12\n",
+      "weight": "1\n",
+      "range": "10.5\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Repeater\n",
+      "reqs": [
+        "65 LHT\n"
+      ],
+      "dmg": "14\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 15\n",
+      "weight": "1\n",
+      "range": "12\n",
+      "swingspeed": "1x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Dragoon\n",
+      "reqs": [
+        "65 LHT\n"
+      ],
+      "dmg": "16\n",
+      "pen": "N/A\n",
+      "chip": "N/A\n",
+      "scaling": "LHT: 12\n",
+      "weight": "1\n",
+      "range": "11\n",
+      "swingspeed": "0.8x\n",
+      "endlag": "N/A"
+    },
+    {
+      "name": "Alloyed Dawnshot\n",
+      "reqs": [
+        "75 LHT\n"
+      ],
+      "dmg": "16\n",
+      "pen": "5%\n",
+      "chip": "10%\n",
+      "scaling": "LHT: 12\n",
+      "weight": "1\n",
+      "range": "10.5\n",
+      "swingspeed": "0.78x\n",
+      "endlag": "N/A"
+    }
+  ]
